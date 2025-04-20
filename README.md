@@ -34,7 +34,7 @@ This project explores a real-world health dataset from Indonesia to predict the 
 1. **Install Required Tools**
    ```bash
    pip install pyspark
-2. **Run Notebook with PySpark
+2. **Run Notebook with PySpark**
    ```bash
    pyspark
 
